@@ -1,0 +1,3 @@
+[submodule "Atum/vendor/spdlog"]
+	path = Atum/vendor/spdlog
+	url = https://github.com/gabime/spdlog.git
